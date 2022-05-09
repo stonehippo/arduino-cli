@@ -2806,7 +2806,7 @@ msgstr "新建配置目录的路径无效：%[1]s错误：%[2]w"
 msgid "invalid path writing inventory file: %[1]s error: %[2]w"
 msgstr "写入库存文件的路径无效：%[1]s错误：%[2]w"
 
-#: arduino/cores/packageindex/index.go:255
+#: arduino/cores/packageindex/index.go:267
 msgid "invalid platform archive size: %s"
 msgstr "无效的平台存档大小：%s"
 
@@ -3019,7 +3019,7 @@ msgstr "正在解析IDE附加索引"
 msgid "parsing fqbn: %s"
 msgstr "解析FQBN：%s"
 
-#: arduino/libraries/librariesindex/json.go:69
+#: arduino/libraries/librariesindex/json.go:72
 msgid "parsing library_index.json: %s"
 msgstr "解析library_index.json: %s"
 
@@ -3112,7 +3112,7 @@ msgstr "正在读取 lib src 目录：%s"
 msgid "reading library headers: %w"
 msgstr "正在读取库头文件：%w"
 
-#: arduino/libraries/librariesindex/json.go:63
+#: arduino/libraries/librariesindex/json.go:66
 msgid "reading library_index.json: %s"
 msgstr "正在读取library_index.json: %s"
 

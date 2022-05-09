@@ -2803,7 +2803,7 @@ msgstr ""
 msgid "invalid path writing inventory file: %[1]s error: %[2]w"
 msgstr ""
 
-#: arduino/cores/packageindex/index.go:255
+#: arduino/cores/packageindex/index.go:267
 msgid "invalid platform archive size: %s"
 msgstr ""
 
@@ -3016,7 +3016,7 @@ msgstr ""
 msgid "parsing fqbn: %s"
 msgstr ""
 
-#: arduino/libraries/librariesindex/json.go:69
+#: arduino/libraries/librariesindex/json.go:72
 msgid "parsing library_index.json: %s"
 msgstr ""
 
@@ -3109,7 +3109,7 @@ msgstr ""
 msgid "reading library headers: %w"
 msgstr ""
 
-#: arduino/libraries/librariesindex/json.go:63
+#: arduino/libraries/librariesindex/json.go:66
 msgid "reading library_index.json: %s"
 msgstr ""
 
